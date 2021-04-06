@@ -1,0 +1,12 @@
+950.inp 950_lammpstrj are for the 
+crystal smco5 at 950 K. 950-str.lammpstrj is the output
+dump file local order parameter in it
+
+Fe.inp Fe-super.lammpstrj are for the bcc Fe supercell for 
+comparison. Fe-str.lammpstrj is the ouput.
+
+950-dos.inp is for distribution of order parameter using 
+950-str.lammpstrj
+
+extrj-0.inp extrj-0.dump is the first frame of nanoparticle of
+smco5 annealed at 950K. It is here for debugging bondorder.f90.

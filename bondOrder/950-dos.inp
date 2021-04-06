@@ -1,0 +1,5 @@
+950-str.lammpstrj
+500 300           ! nSout, nQout
+0.5 0.01 2.5     ! sigmaS, sigmaQ, S threshold
+-10 20            ! Smin Smax
+-1  1             ! Qmin Qmax

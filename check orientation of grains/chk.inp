@@ -1,0 +1,4 @@
+"extrj.xyz"                     !data file
+-7.18821 77.2596 262.272       !grain vector
+30 1                           !largest searching distance and atomic type number
+3.94 0.1 0.15                  !axial atomic distance and threshold(positive) and angel range(in pi)
